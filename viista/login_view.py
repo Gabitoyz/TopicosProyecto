@@ -51,3 +51,5 @@ class LoginView(ttk.Frame):
     # Método para mostrar mensajes de error en pantalla
     def show_error(self, message):
         self.error_label.config(text=message)
+
+        #test
