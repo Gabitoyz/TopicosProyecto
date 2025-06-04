@@ -5,7 +5,7 @@
 Esta es una aplicación de escritorio desarrollada en Python como proyecto final de la materia Tópicos Avanzados de Programación. El sistema funciona como un cliente gestor de bases de datos MySQL, permitiendo al usuario conectarse a un servidor MySQL, visualizar las bases de datos disponibles y ejecutar consultas SQL de forma interactiva.
 
 ## *🧰 Tecnologías utilizadas*
-       •	Python
+        •	Python
 	•	Tkinter y ttkbootstrap – Para el desarrollo de la interfaz gráfica moderna
 	•	MySQL Connector/Python – Para la conexión con el servidor MySQL
 	•	Estructura basada en el patrón MVC (Modelo-Vista-Controlador)
