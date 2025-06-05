@@ -1,4 +1,4 @@
-#test
+
 # Importa ttkbootstrap para widgets con estilos modernos
 import ttkbootstrap as ttk
 import tkinter as tk
@@ -77,3 +77,5 @@ class MainView(ttk.Frame):
             table_id = self.tables_list.insert("", "end", text=table, open=False)  # Inserta tabla
             for col in columns:
                 self.tables_list.insert(table_id, "end", text=col)  # Inserta columnas dentro de la tabla
+
+#test
