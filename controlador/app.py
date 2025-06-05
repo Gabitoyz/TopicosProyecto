@@ -1,3 +1,4 @@
+#test
 import tkinter as tk
 import ttkbootstrap as ttk  # Usamos ttkbootstrap para estilos modernos
 from modelo.base_de_datos import DatabaseConnection  # Clase para manejar conexión a la base de datos
